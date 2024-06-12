@@ -1,5 +1,10 @@
 # FitTrack (Workout Tracking Application)
 
+### Team Members:
+- Member 1: Shashank (sg3832)
+- Member 2: Rishab (rp946)
+
+  
 ## Design and Purpose
 
 The Workout Tracking Application is designed to help users track their fitness progress by logging their workouts. The app is intended for fitness enthusiasts who want to monitor their exercise routines and track their improvements over time. The target audience includes individuals of all fitness levels who are interested in maintaining a healthy lifestyle.
