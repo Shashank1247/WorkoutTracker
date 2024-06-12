@@ -1,4 +1,4 @@
-#FitTrack (Workout Tracking Application)
+### FitTrack (Workout Tracking Application)
 
 ## Design and Purpose
 
