@@ -13,9 +13,12 @@ React Native Workout Tracking app. In Progress
 
 
 <p float="left">
+ <img width="429" alt="Screenshot 2024-06-12 at 6 48 05 PM" src="https://github.com/Shashank1247/WorkoutTracker/assets/68177728/eb2e6b90-1013-4bfd-852b-78f04a841a77">
+<img width="429" alt="workoutScreen" src="https://github.com/Shashank1247/WorkoutTracker/assets/68177728/b55eebb8-2e89-4b67-8aa1-1749c89a9ab0">
 
-<img src="https://user-images.githubusercontent.com/60319236/210497700-6deb5bd2-f512-488e-b929-6d57082a1d4a.png" width="300">
-<img src="https://user-images.githubusercontent.com/60319236/210497137-3514ca59-583b-4b10-8509-1552b004a40b.png" width="300">
-<img src="https://user-images.githubusercontent.com/60319236/210497609-d8bad846-4daa-4014-8641-7c0f8b22930d.png" width="300">
+<img width="429" alt="calender" src="https://github.com/Shashank1247/WorkoutTracker/assets/68177728/b7b23a11-cbc5-40a6-9bbe-74ede64c7cd2">
+
+<img width="429" alt="timer" src="https://github.com/Shashank1247/WorkoutTracker/assets/68177728/d1eb1395-707d-4747-8c00-4aab9bbd7dc8">
+
 
 </p>
