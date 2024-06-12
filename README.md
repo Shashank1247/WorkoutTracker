@@ -119,7 +119,7 @@ The design and development process of the Workout Tracking Application involved 
 - **Challenge:** Integrating the backend with the frontend.
   - **Solution:** We used RESTful APIs to facilitate smooth communication between the server and the client. Proper error handling and data validation were implemented to ensure reliability.
 - **Challenge:** Managing state and data consistency.
-  - **Solution:** We adopted a state management library (e.g., Redux) to manage the application's state effectively.
+  - **Solution:** We adopted a state management library to manage the application's state effectively.
 
 #### Modules and Techniques
 - **Frontend:** Developed using React Native, ensuring cross-platform compatibility.
@@ -133,10 +133,6 @@ The design and development process of the Workout Tracking Application involved 
 - **UI Improvements:** Refining the user interface based on user feedback to enhance usability.
 - **Social Features:** Implementing features that allow users to share their progress and compete with friends.
 
-### Coding and Best Practices
-
-Throughout the project, we adhered to coding best practices, including modularization, code reviews, and using version control (Git). Documentation was maintained to ensure code readability and ease of maintenance.
 
 ---
 
-This documentation provides an overview of the Workout Tracking Application, its design and purpose, server API specifications, and development experiences. The project showcases a comprehensive approach to building a functional and user-friendly fitness tracking app.
