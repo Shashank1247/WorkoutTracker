@@ -6,9 +6,6 @@ React Native Workout Tracking app. In Progress
 2. MongoDb
 
 
-## 1-min Video Demo:
-https://user-images.githubusercontent.com/60319236/210497045-2c61ecee-fb15-403c-ac12-451e8bfde71c.mov
-
 
 
 
