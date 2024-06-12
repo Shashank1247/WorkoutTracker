@@ -86,28 +86,6 @@ The backend server for the Workout Tracking Application provides several APIs to
       DELETE /api/workouts/60a7b3e2e25e1b001c8d6c8d
       ```
 
-### Example API Usage
-
-```javascript
-// Example of using the fetch API to create a new workout session
-fetch('/api/workouts', {
-    method: 'POST',
-    headers: {
-        'Content-Type': 'application/json'
-    },
-    body: JSON.stringify({
-        name: 'Morning Routine',
-        exercises: [
-            { name: 'Push-ups', reps: 20 },
-            { name: 'Squats', reps: 30 }
-        ],
-        date: '2024-06-12'
-    })
-})
-.then(response => response.json())
-.then(data => console.log(data))
-.catch(error => console.error('Error:', error));
-```
 
 ## Experiences
 
